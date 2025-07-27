@@ -1,0 +1,266 @@
+endTime,artistName,count
+2024-06-09,Jungeli,6
+2024-06-09,CKay,5
+2024-06-09,David Guetta,5
+2024-06-09,Stromae,5
+2024-06-09,Fireboy DML,4
+2024-06-16,JVKE,10
+2024-06-16,CKay,8
+2024-06-16,Rod Stewart,7
+2024-06-16,Benson Boone,6
+2024-06-16,Disturbed,6
+2024-06-23,Fireboy DML,17
+2024-06-23,Kizz Daniel,16
+2024-06-23,Burna Boy,10
+2024-06-23,CKay,10
+2024-06-23,Ayra Starr,7
+2024-06-30,Aya Nakamura,20
+2024-06-30,Stromae,13
+2024-06-30,JVKE,10
+2024-06-30,Jungeli,10
+2024-06-30,Fireboy DML,9
+2024-07-07,Aya Nakamura,60
+2024-07-07,Omah Lay,35
+2024-07-07,Benson Boone,26
+2024-07-07,Burna Boy,26
+2024-07-07,Kizz Daniel,23
+2024-07-14,Benson Boone,21
+2024-07-14,JVKE,17
+2024-07-14,Uglyburger0,17
+2024-07-14,Rogue,14
+2024-07-14,Zach Bryan,14
+2024-07-21,Forrest Frank,25
+2024-07-21,JVKE,14
+2024-07-21,Benson Boone,7
+2024-07-21,GRAHAM,7
+2024-07-21,Aya Nakamura,6
+2024-07-28,JVKE,53
+2024-07-28,Pink Sweat$,16
+2024-07-28,Devin Kennedy,13
+2024-07-28,Tom Frane,13
+2024-07-28,Forrest Frank,10
+2024-08-04,JVKE,27
+2024-08-04,Throttle,14
+2024-08-04,Aya Nakamura,10
+2024-08-04,Pink Sweat$,10
+2024-08-04,Tom Frane,10
+2024-08-11,Hollywood Principle,27
+2024-08-11,Fireboy DML,21
+2024-08-11,Grant,18
+2024-08-11,Throttle,11
+2024-08-11,Kizz Daniel,9
+2024-08-18,Grant,17
+2024-08-18,Hollywood Principle,8
+2024-08-18,Throttle,7
+2024-08-18,Half an Orange,6
+2024-08-18,DROELOE,5
+2024-08-25,Grant,15
+2024-08-25,Half an Orange,9
+2024-08-25,Far Out,4
+2024-08-25,Hugues Aufray,4
+2024-08-25,Athena,3
+2024-09-01,Grant,37
+2024-09-01,Haywyre,33
+2024-09-01,Rogue,26
+2024-09-01,Fairlane,20
+2024-09-01,Innersloth,16
+2024-09-08,Grant,51
+2024-09-08,Haywyre,36
+2024-09-08,Rogue,15
+2024-09-08,Hollywood Principle,14
+2024-09-08,FWLR,9
+2024-09-15,Grant,51
+2024-09-15,Haywyre,41
+2024-09-15,Trivecta,21
+2024-09-15,FWLR,20
+2024-09-15,Cartoon,15
+2024-09-22,Grant,67
+2024-09-22,Haywyre,36
+2024-09-22,Rogue,32
+2024-09-22,Trivecta,29
+2024-09-22,smle,15
+2024-09-29,Grant,44
+2024-09-29,WRLD,33
+2024-09-29,Rogue,29
+2024-09-29,Haywyre,17
+2024-09-29,smle,15
+2024-10-06,WRLD,47
+2024-10-06,Haywyre,39
+2024-10-06,FWLR,28
+2024-10-06,Grant,25
+2024-10-06,Rogue,17
+2024-10-13,Haywyre,46
+2024-10-13,ellis,23
+2024-10-13,Rogue,20
+2024-10-13,Grant,17
+2024-10-13,WRLD,17
+2024-10-20,ellis,91
+2024-10-20,Grant,35
+2024-10-20,Seven Lions,35
+2024-10-20,Haywyre,34
+2024-10-20,Justin OH,27
+2024-10-27,ellis,85
+2024-10-27,Haywyre,40
+2024-10-27,Seven Lions,27
+2024-10-27,smle,24
+2024-10-27,The Night,22
+2024-11-03,ellis,37
+2024-11-03,Seven Lions,24
+2024-11-03,Haywyre,20
+2024-11-03,Half an Orange,19
+2024-11-03,smle,10
+2024-11-10,Fireboy DML,61
+2024-11-10,Half an Orange,31
+2024-11-10,ellis,17
+2024-11-10,Victony,11
+2024-11-10,Kizz Daniel,10
+2024-11-17,Fireboy DML,54
+2024-11-17,Wande Coal,53
+2024-11-17,Half an Orange,17
+2024-11-17,melvitto,12
+2024-11-17,Kizz Daniel,9
+2024-11-24,Fireboy DML,35
+2024-11-24,Tems,25
+2024-11-24,Trivecta,18
+2024-11-24,ellis,16
+2024-11-24,Half an Orange,12
+2024-12-01,WRLD,30
+2024-12-01,ellis,21
+2024-12-01,Fireboy DML,17
+2024-12-01,Half an Orange,16
+2024-12-01,Trivecta,15
+2024-12-08,Ruger,57
+2024-12-08,WRLD,45
+2024-12-08,ellis,24
+2024-12-08,Half an Orange,21
+2024-12-08,Maleek Berry,19
+2024-12-15,WRLD,37
+2024-12-15,Ruger,30
+2024-12-15,Half an Orange,17
+2024-12-15,ellis,15
+2024-12-15,Grant,11
+2024-12-22,ellis,35
+2024-12-22,Ruger,18
+2024-12-22,WRLD,15
+2024-12-22,Half an Orange,14
+2024-12-22,Anevo,11
+2024-12-29,Stromae,100
+2024-12-29,Haywyre,20
+2024-12-29,Grant,19
+2024-12-29,Anevo,14
+2024-12-29,Rogue,14
+2025-01-05,Haywyre,26
+2025-01-05,ellis,25
+2025-01-05,Conro,23
+2025-01-05,Grant,22
+2025-01-05,WRLD,11
+2025-01-12,Haywyre,27
+2025-01-12,ellis,17
+2025-01-12,Conro,10
+2025-01-12,Grant,10
+2025-01-12,Rogue,10
+2025-01-19,Haywyre,12
+2025-01-19,Grant,11
+2025-01-19,ellis,11
+2025-01-19,Fonzi M,10
+2025-01-19,Rogue,9
+2025-01-26,NF,9
+2025-01-26,Lil Nas X,8
+2025-01-26,Seven Lions,7
+2025-01-26,Grant,6
+2025-01-26,Rogue,6
+2025-02-02,Johann Sebastian Bach,45
+2025-02-02,Rogue,28
+2025-02-02,Haywyre,14
+2025-02-02,NF,9
+2025-02-02,WRLD,8
+2025-02-09,Johann Sebastian Bach,32
+2025-02-09,Rogue,17
+2025-02-09,Haywyre,13
+2025-02-09,WRLD,12
+2025-02-09,ellis,5
+2025-02-16,JVKE,9
+2025-02-16,Rogue,9
+2025-02-16,WRLD,8
+2025-02-16,Haywyre,7
+2025-02-16,SABAI,7
+2025-02-23,Haywyre,24
+2025-02-23,Rogue,20
+2025-02-23,WRLD,10
+2025-02-23,ellis,10
+2025-02-23,Johann Sebastian Bach,9
+2025-03-02,DEXTER KING,16
+2025-03-02,Rogue,10
+2025-03-02,Time To Talk,10
+2025-03-02,JJD,6
+2025-03-02,WRLD,6
+2025-03-09,JJD,44
+2025-03-09,DEXTER KING,12
+2025-03-09,Time To Talk,12
+2025-03-09,Rogue,10
+2025-03-09,WRLD,10
+2025-03-16,JJD,20
+2025-03-16,Scythermane,16
+2025-03-16,Time To Talk,14
+2025-03-16,Conro,13
+2025-03-16,Kovan,13
+2025-03-23,Rogue,31
+2025-03-23,Arlow,15
+2025-03-23,Conro,12
+2025-03-23,JJD,10
+2025-03-23,Kovan,10
+2025-03-30,Rogue,18
+2025-03-30,WRLD,14
+2025-03-30,JJD,11
+2025-03-30,Scythermane,11
+2025-03-30,Conro,10
+2025-04-06,Rogue,16
+2025-04-06,DEXTER KING,13
+2025-04-06,Audien,11
+2025-04-06,JJD,9
+2025-04-06,Auvic,8
+2025-04-13,Fairlane,49
+2025-04-13,Rogue,22
+2025-04-13,Cinema Kid,17
+2025-04-13,DEXTER KING,13
+2025-04-13,Trivecta,13
+2025-04-20,Tom Wilson,29
+2025-04-20,Cinema Kid,18
+2025-04-20,Fairlane,17
+2025-04-20,Kovan,15
+2025-04-20,Rogue,13
+2025-04-27,Maazel,20
+2025-04-27,Tom Wilson,17
+2025-04-27,Duumu,14
+2025-04-27,Kovan,11
+2025-04-27,Unknown Brain,9
+2025-05-04,Duumu,29
+2025-05-04,Maazel,14
+2025-05-04,Tom Wilson,10
+2025-05-04,Arlow,8
+2025-05-04,Abandoned,6
+2025-05-11,Duumu,28
+2025-05-11,Abandoned,12
+2025-05-11,Maazel,12
+2025-05-11,PNL,6
+2025-05-11,Pérotin,6
+2025-05-18,Duumu,15
+2025-05-18,Arlow,13
+2025-05-18,Maazel,12
+2025-05-18,Fairlane,11
+2025-05-18,Glacier,10
+2025-05-25,Fairlane,44
+2025-05-25,Glacier,19
+2025-05-25,Duumu,17
+2025-05-25,Arlow,11
+2025-05-25,Maazel,10
+2025-06-01,Dmitri Shostakovich,32
+2025-06-01,Arlow,29
+2025-06-01,Aeden,18
+2025-06-01,Fairlane,17
+2025-06-01,SABAI,9
+2025-06-08,Dmitri Shostakovich,129
+2025-06-08,Fairlane,8
+2025-06-08,Arlow,7
+2025-06-08,Duumu,7
+2025-06-08,Syn Cole,7
