@@ -12,7 +12,7 @@ And then, edit the settings in `settings.py` in your own (by default they are po
 
 Then, run the file `json_to_csv.py`, it turn your json data streaming history into a csv file
 
-# How to use
+# How to use1
 To get what are your most listened tracks/artists, run `sandbox.py` -> artist_play_counts.csv and track_play_counts.csv
 
 To get a graph when you listened the most a song, or an artist, run `sandbox2.py`
