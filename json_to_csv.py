@@ -2,8 +2,10 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import glob
+import settings
+import os
 
-files = glob.glob("my_spotify_data/Spotify Account Data/StreamingHistory_music_*.json")
+files = glob.glob(os.path.join(settings.DIR_SRC,"StreamingHistory_music_*.json"))
 data={"endTime":[],"artistName":[],"trackName":[],"timePlayed":[]}
 for file in files:
     print(file)
@@ -19,4 +21,4 @@ for file in files:
         data["timePlayed"].append(track["msPlayed"])
 
 df = pd.DataFrame(data)
-df.to_csv("StreamingHistory.csv", index=False)
+df.to_csv(settings.FILE_DATA, index=False)

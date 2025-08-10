@@ -6,7 +6,8 @@ obj -> date
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
-df = pd.read_csv("StreamingHistory.csv", parse_dates=["endTime"])
+import settings
+df = pd.read_csv(settings.FILE_DATA, parse_dates=["endTime"])
 
 artist = "Duumu"
 track = ""
