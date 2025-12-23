@@ -9,11 +9,11 @@ import pandas as pd
 import settings
 
 df = pd.read_csv(settings.FILE_DATA, parse_dates=["endTime"])
-df = df.astype({"endTime":"datetime64[s]"})#, "timePlayed":"timedelta64[ms]"})
 
-
-
-
+a=1
+print(0<a<2)
+df = df[(df["endTime"]>="2025-01-01") & (df["endTime"]<"2025-11-01")]
+print(df)
 
 df_artist = df.groupby("artistName")
 df_artist_size = df_artist.size().sort_values(ascending=False)

@@ -11,8 +11,8 @@ import rrstats
 
 df = pd.read_csv(settings.FILE_DATA, parse_dates=["endTime"])
 
-artist = ""
-track = ""
+artist = "Hallmore"
+track = "Piece of Me"
 #track = "Tell Me - Ellis Remix"
 
 freq = "1D"
@@ -22,7 +22,7 @@ if artist:
     else:
         df = df[df["artistName"] == artist]
 #df = df[df["artistName"]=="Haywyre" and df["trackName"]=="Tell Me - Ellis Remix"]
-
+print(df.iloc[40:42])
 #df_counts_date = df.groupby(df.endTime.dt.date).size()
 df_groups = df.groupby(pd.Grouper(key='endTime', freq=freq))
 df_counts = df_groups.size()
@@ -33,10 +33,10 @@ df_counts12_trimmed = rrstats.StatsSeries(df_counts).myrolling(12).trimmed_mean_
 #df_counts.to_csv(f"df_counts_{freq}.csv")
 print(df_counts)
 
-#plt.plot(df_counts.index,df_counts,label="raw")
+plt.bar(df_counts.index,df_counts,label="raw")
 #plt.plot(df_counts5.index,df_counts5,label="rolling 5")
 #plt.plot(df_counts5_trimmed.index,df_counts5_trimmed,label="rolling 5 trimmed")
-plt.bar(df_counts12.index,df_counts12,label="rolling 12")
+#plt.bar(df_counts12.index,df_counts12,label="rolling 12")
 #plt.bar(df_counts12_trimmed.index,df_counts12_trimmed,label="rolling 12 trimmed")
 plt.legend()
 plt.gcf().autofmt_xdate()
