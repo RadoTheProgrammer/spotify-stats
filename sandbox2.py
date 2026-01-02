@@ -11,8 +11,8 @@ import rrstats
 
 df = pd.read_csv(settings.FILE_DATA, parse_dates=["endTime"])
 
-artist = "Hallmore"
-track = "Piece of Me"
+artist = "Duumu"#"Hallmore"
+track = "Talk!"#"Piece of Me"
 #track = "Tell Me - Ellis Remix"
 
 freq = "1D"
@@ -22,7 +22,7 @@ if artist:
     else:
         df = df[df["artistName"] == artist]
 #df = df[df["artistName"]=="Haywyre" and df["trackName"]=="Tell Me - Ellis Remix"]
-print(df.iloc[40:42])
+print(df.iloc[38:40])
 #df_counts_date = df.groupby(df.endTime.dt.date).size()
 df_groups = df.groupby(pd.Grouper(key='endTime', freq=freq))
 df_counts = df_groups.size()

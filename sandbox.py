@@ -10,9 +10,7 @@ import settings
 
 df = pd.read_csv(settings.FILE_DATA, parse_dates=["endTime"])
 
-a=1
-print(0<a<2)
-df = df[(df["endTime"]>="2025-01-01") & (df["endTime"]<"2025-11-01")]
+#df = df[(df["endTime"]>"2024-12-01") & (df["endTime"]<"2025-01-01")]
 print(df)
 
 df_artist = df.groupby("artistName")
