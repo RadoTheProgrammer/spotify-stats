@@ -1,0 +1,364 @@
+{
+  "stats" : [ {
+    "date" : "2025-12-15",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Still Feels Right",
+      "streamCount" : 13,
+      "secondsPlayed" : 2862
+    }, {
+      "name" : "Anyway",
+      "streamCount" : 7,
+      "secondsPlayed" : 1257
+    }, {
+      "name" : "If You Really Believe",
+      "streamCount" : 5,
+      "secondsPlayed" : 1007
+    }, {
+      "name" : "Into The Wild",
+      "streamCount" : 5,
+      "secondsPlayed" : 861
+    }, {
+      "name" : "It Looks Like We Made It",
+      "streamCount" : 4,
+      "secondsPlayed" : 720
+    }, {
+      "name" : "Never or Right Now",
+      "streamCount" : 4,
+      "secondsPlayed" : 828
+    }, {
+      "name" : "So Curious",
+      "streamCount" : 4,
+      "secondsPlayed" : 906
+    }, {
+      "name" : "Waste Our Time",
+      "streamCount" : 4,
+      "secondsPlayed" : 659
+    }, {
+      "name" : "Living In Your Messages",
+      "streamCount" : 3,
+      "secondsPlayed" : 590
+    }, {
+      "name" : "Wasn't Even Close",
+      "streamCount" : 3,
+      "secondsPlayed" : 548
+    } ],
+    "topArtists" : [ {
+      "name" : "Flux Vortex",
+      "streamCount" : 22,
+      "secondsPlayed" : 4475
+    }, {
+      "name" : "Basixx",
+      "streamCount" : 16,
+      "secondsPlayed" : 2929
+    }, {
+      "name" : "Zack Merci",
+      "streamCount" : 15,
+      "secondsPlayed" : 2536
+    }, {
+      "name" : "Yesable",
+      "streamCount" : 14,
+      "secondsPlayed" : 2724
+    }, {
+      "name" : "Daxten",
+      "streamCount" : 11,
+      "secondsPlayed" : 2331
+    }, {
+      "name" : "LED Monster",
+      "streamCount" : 11,
+      "secondsPlayed" : 1849
+    }, {
+      "name" : "G Curtis",
+      "streamCount" : 18,
+      "secondsPlayed" : 3143
+    }, {
+      "name" : "BLAEKER",
+      "streamCount" : 10,
+      "secondsPlayed" : 1787
+    }, {
+      "name" : "Lvly",
+      "streamCount" : 9,
+      "secondsPlayed" : 1696
+    }, {
+      "name" : "Velee",
+      "streamCount" : 9,
+      "secondsPlayed" : 1689
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-08",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Anyway",
+      "streamCount" : 11,
+      "secondsPlayed" : 2071
+    }, {
+      "name" : "Never Get Old",
+      "streamCount" : 5,
+      "secondsPlayed" : 952
+    }, {
+      "name" : "If You Really Believe",
+      "streamCount" : 5,
+      "secondsPlayed" : 1149
+    }, {
+      "name" : "Holding On",
+      "streamCount" : 5,
+      "secondsPlayed" : 841
+    }, {
+      "name" : "District Zero",
+      "streamCount" : 4,
+      "secondsPlayed" : 666
+    }, {
+      "name" : "Good To You",
+      "streamCount" : 4,
+      "secondsPlayed" : 495
+    }, {
+      "name" : "Love Potion",
+      "streamCount" : 4,
+      "secondsPlayed" : 533
+    }, {
+      "name" : "Never Give Up",
+      "streamCount" : 3,
+      "secondsPlayed" : 621
+    }, {
+      "name" : "Survivors",
+      "streamCount" : 3,
+      "secondsPlayed" : 604
+    }, {
+      "name" : "I'm Saying Goodbye",
+      "streamCount" : 3,
+      "secondsPlayed" : 555
+    } ],
+    "topArtists" : [ {
+      "name" : "LED Monster",
+      "streamCount" : 15,
+      "secondsPlayed" : 2566
+    }, {
+      "name" : "Yesable",
+      "streamCount" : 11,
+      "secondsPlayed" : 2271
+    }, {
+      "name" : "G Curtis",
+      "streamCount" : 19,
+      "secondsPlayed" : 2871
+    }, {
+      "name" : "Hallmore",
+      "streamCount" : 9,
+      "secondsPlayed" : 1388
+    }, {
+      "name" : "Steve Hartz",
+      "streamCount" : 8,
+      "secondsPlayed" : 1573
+    }, {
+      "name" : "Zack Merci",
+      "streamCount" : 8,
+      "secondsPlayed" : 1202
+    }, {
+      "name" : "BLAEKER",
+      "streamCount" : 7,
+      "secondsPlayed" : 999
+    }, {
+      "name" : "Lvly",
+      "streamCount" : 6,
+      "secondsPlayed" : 1130
+    }, {
+      "name" : "Robert Schumann",
+      "streamCount" : 6,
+      "secondsPlayed" : 847
+    }, {
+      "name" : "Daxten",
+      "streamCount" : 5,
+      "secondsPlayed" : 1008
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-01",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Into The Wild",
+      "streamCount" : 12,
+      "secondsPlayed" : 1841
+    }, {
+      "name" : "Holding On",
+      "streamCount" : 8,
+      "secondsPlayed" : 1243
+    }, {
+      "name" : "Living In Your Messages",
+      "streamCount" : 4,
+      "secondsPlayed" : 798
+    }, {
+      "name" : "Love Potion",
+      "streamCount" : 4,
+      "secondsPlayed" : 666
+    }, {
+      "name" : "Vision pt. II",
+      "streamCount" : 4,
+      "secondsPlayed" : 837
+    }, {
+      "name" : "Shudder",
+      "streamCount" : 4,
+      "secondsPlayed" : 578
+    }, {
+      "name" : "Ceasefire",
+      "streamCount" : 4,
+      "secondsPlayed" : 531
+    }, {
+      "name" : "Circles",
+      "streamCount" : 3,
+      "secondsPlayed" : 913
+    }, {
+      "name" : "Enough",
+      "streamCount" : 3,
+      "secondsPlayed" : 512
+    }, {
+      "name" : "Never Gonna Get Enough",
+      "streamCount" : 2,
+      "secondsPlayed" : 442
+    } ],
+    "topArtists" : [ {
+      "name" : "Zack Merci",
+      "streamCount" : 26,
+      "secondsPlayed" : 3962
+    }, {
+      "name" : "Lost Sky",
+      "streamCount" : 10,
+      "secondsPlayed" : 1897
+    }, {
+      "name" : "Jim Yosef",
+      "streamCount" : 10,
+      "secondsPlayed" : 1589
+    }, {
+      "name" : "ARCANA",
+      "streamCount" : 16,
+      "secondsPlayed" : 2507
+    }, {
+      "name" : "Hallmore",
+      "streamCount" : 8,
+      "secondsPlayed" : 1457
+    }, {
+      "name" : "Aeden",
+      "streamCount" : 8,
+      "secondsPlayed" : 1243
+    }, {
+      "name" : "Velee",
+      "streamCount" : 5,
+      "secondsPlayed" : 1026
+    }, {
+      "name" : "Netrum",
+      "streamCount" : 5,
+      "secondsPlayed" : 1006
+    }, {
+      "name" : "Flux Vortex",
+      "streamCount" : 5,
+      "secondsPlayed" : 836
+    }, {
+      "name" : "Swif7",
+      "streamCount" : 5,
+      "secondsPlayed" : 836
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2025-12-21",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Lollo Gardtman",
+      "secondEntity" : "Scythermane"
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Anyway",
+      "streamCount" : 11
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Aeden",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Zack Merci", "ARCANA", "Velee", "Into The Wild", "Living In Your Messages", "Clair de lune, CD 82/3 (Arr. Parkin & Kaner-Lidström for Saxophone & Ensemble)", "Painting", "VIRGO “The Perfectionist”", "Circles" ],
+      "milestoneListeningSeconds" : 44653
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Womria",
+      "secondEntity" : "Chopper"
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Take You There",
+      "streamCount" : 24
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Hallmore",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Blood Guts & Pixie Dust",
+      "country" : "CH",
+      "position" : 870
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Swif7",
+      "listeningPercentage" : 22.321790426442114
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Lollo Gardtman",
+      "secondEntity" : "Sayfalse"
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Piece of Me",
+      "streamCount" : 15
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Deanz",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Vicki Vox", "Deanz", "Andy Delos Santos", "Let Me Drown", "Sweat on Me (Trice Remix)", "Your Hands on Me", "About to Explode", "Dream On Me - Roger Sanchez Remix", "Feel the Love" ],
+      "milestoneListeningSeconds" : 39679
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Home",
+      "streamCount" : 6
+    }
+  } ]
+}
